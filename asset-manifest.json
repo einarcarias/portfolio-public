@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1dfcb246.css",
+    "main.js": "/portfolio/static/js/main.cf85cfdc.js",
+    "static/media/paperAirplane.png": "/portfolio/static/media/paperAirplane.8698d16523c5f6ab7686.png",
+    "index.html": "/portfolio/index.html",
+    "main.1dfcb246.css.map": "/portfolio/static/css/main.1dfcb246.css.map",
+    "main.cf85cfdc.js.map": "/portfolio/static/js/main.cf85cfdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dfcb246.css",
+    "static/js/main.cf85cfdc.js"
+  ]
+}
